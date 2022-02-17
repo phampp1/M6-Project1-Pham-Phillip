@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class ArrayFun5Words {
     public static void main(String[] args) {
+
         // Initialize my tools
         Scanner scan = new Scanner(System.in);
         String[] words = new String[5];
