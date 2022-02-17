@@ -1,11 +1,9 @@
 package com.company;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
 public class ArrayFunUserArray {
     public static void main(String[] args) {
-
         // Initialize my tools to be used
         Scanner scan = new Scanner(System.in);
         int[] arr1 = new int[5];

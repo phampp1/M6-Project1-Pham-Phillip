@@ -1,10 +1,8 @@
 package com.company;
-
 import java.util.Arrays;
 
 public class ArrayFunReverselt {
     public static void main(String[] args) {
-
         // Declare the array [1,2,3,4,5] and let the user know what the original array is
         int[] arr1 = {1,2,3,4,5};
         System.out.println("This program takes a given array of [1,2,3,4,5] and reverses the order.");

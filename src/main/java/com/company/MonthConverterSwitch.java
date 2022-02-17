@@ -1,9 +1,9 @@
 package com.company;
-
 import java.util.Scanner;
 
 public class MonthConverterSwitch {
     public static void main(String[] args) {
+        // Initialize my tools
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Please enter a number between 1 and 12 inclusive: ");
